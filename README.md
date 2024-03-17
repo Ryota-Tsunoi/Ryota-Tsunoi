@@ -18,7 +18,7 @@
 | Javascript | 5年~ |
 | React | 5年~ |
 | NextJS | 5年~ |
-| Flutter | 2年 |
+| Flutter | 3年 |
 | NodeJS | 5年~ |
 | NestJS | 2年 | 
 | C#.Net | 5年~ |
