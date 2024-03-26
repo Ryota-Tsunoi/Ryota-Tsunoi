@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "lint": "textlint -c ./configs/.textlintrc . && markdownlint -c ./configs/.markdownlint.jsonc *.md **/*.md",
+    "lint": "textlint -c ./.textlintrc . && markdownlint -c ./.markdownlint.jsonc *.md **/*.md",
     "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "keywords": [],
