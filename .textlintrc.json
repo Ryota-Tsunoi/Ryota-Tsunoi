@@ -41,7 +41,7 @@
     "no-dropping-the-ra": true,
     "no-mixed-zenkaku-and-hankaku-alphabet": true,
     "no-nfd": true,
-    "period-in-list-item": true,
+    "period-in-list-item": false,
     "prefer-tari-tari": true,
     "rousseau": {
       "showLevels": ["suggestion", "warning", "error"],
