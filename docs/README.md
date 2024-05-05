@@ -73,39 +73,54 @@ TBD
 
 ## スキル
 
-### 開発手法
+| カテゴリ             | スキル                   | 経験年数 |
+| -------------------- | ------------------------ | -------- |
+| プログラミング言語等 | TypeScript               | 5 年 ~   |
+|                      | JavaScript               | 5 年 ~   |
+|                      | HTML/CSS                 | 5 年 ~   |
+|                      | C#                       | 5 年 ~   |
+|                      | SQL                      | 5 年 ~   |
+|                      | Dart                     | 3 年     |
+|                      | Golang                   | 1 年     |
+|                      | ruby                     | 1 年     |
+|                      | Swift                    | 1 年     |
+|                      | Kotlin                   | 1 年     |
+| フロントエンド       | React                    | 5 年 ~   |
+|                      | Next.js                  | 4 年     |
+| バックエンド         | Node.js                  | 5 年 ~   |
+|                      | Nest.js                  | 3 年     |
+|                      | Koa                      | 1 年     |
+|                      | Express.js               | 2 年     |
+|                      | .Net                     | 5 年 ~   |
+|                      | Ruby on rails            | 1 年     |
+| モバイルアプリ       | Flutter                  | 3 年     |
+|                      | SwiftUI                  | 1 年     |
+|                      | Jetpack compose          | 1 年     |
+| クラウド             | AWS                      | 2 年     |
+|                      | GCP                      | 2 年     |
+|                      | Azure                    | 3 年     |
+|                      | Firebase                 | 2 年     |
+|                      | Supabase                 | 1 年     |
+| データベース         | SQL Server               | -        |
+|                      | PostgreSQL               | -        |
+|                      | MySQL                    | -        |
+|                      | Firestore                | -        |
+| インフラ・IaC        | Terraform                | 1 年     |
+| バージョン管理       | Git                      | 5 年 ~   |
+|                      | GitHub                   | 5 年 ~   |
+|                      | Azure DevOps             | 3 年     |
+| 通信プロトコル       | REST                     | -        |
+|                      | GraphQL                  | -        |
+|                      | gRPC                     | -        |
+| テスト               | Jest                     | -        |
+|                      | Mocha                    | -        |
+|                      | Cypress                  | -        |
+|                      | Selenium                 | -        |
+| アーキテクチャ       | マイクロサービス         | -        |
+|                      | ドメイン駆動設計（DDD）  | -        |
+|                      | レイヤードアーキテクチャ | -        |
+| 方法論               | アジャイル開発           | -        |
+|                      | スクラム                 | -        |
+|                      | ウォーターフォール       | -        |
 
-ウォーターフォール開発・プロトタイプ開発・スクラム開発
-
-### 言語
-
-JavaScript・TypeScript・Dart・C#・Ruby・Swift・HTML/CSS・SQL
-業務経験はないが、Go・Rust・Erlang なども個人的に触った経験あり
-
-### フレームワーク
-
-React・NextJS・Express・NestJS・Flutter・.net Framework・.net Core・Ruby on Rails・SwiftUI
-
-### 通信プロトコル
-
-REST・GraphQL
-業務経験はないが、gRPC も知識としては持っている
-
-### データベース
-
-SQL Database・PostgreSQL・MySQL
-Firestore・Azure Cosmos
-
-### クラウド
-
-#### AWS
-
-API Gateway・Aurora・CloudWatch・Cognito・ECR・ECS・EC2・Fargate・IAM・Lambda・SES・SQS・S3
-
-#### GCP
-
-Cloud Pub/Sub・Cloud Run・Cloud SQL・Secret Manager
-
-#### その他開発系
-
-GitHub・GitHub Actions・Docker・Terraform・Datadog・Sentry
+※ 経験年数の記載が難しいものは、'-'で表記しています。
